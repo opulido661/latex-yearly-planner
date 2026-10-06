@@ -5,14 +5,14 @@ layout:
     width: 15.6cm
     height: 20.9cm
 
-    reversemargins: true
+    reversemargins: false
     marginparwidth: 1cm
     marginparsep: 4.5mm
 
     margin:
       top: .3cm
       bottom: 0.6cm
-      left: 5.4cm
+      left: 2.5cm
       right: 0.3cm
 
   numbers:
