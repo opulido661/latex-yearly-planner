@@ -1,6 +1,6 @@
 weekstart: 7
 ampmtime: false
-dotted: true
+dotted: false
 calafterschedule: false
 addlasthalfhour: true
 
@@ -11,7 +11,7 @@ layout:
 
     marginparwidth: 1cm
     marginparsep: 0cm
-    reversemargins: true
+    reversemargins: false
 
     margin:
       top: 1.2cm
